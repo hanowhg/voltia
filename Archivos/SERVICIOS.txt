@@ -1,0 +1,30 @@
+"Nuestros Servicios Especializados en cables subterráneos de baja, media y alta tensión
+Ofrecemos un servicio integral de diagnóstico y localización de fallas para garantizar la fiabilidad y continuidad operativa de su red eléctrica. Con nuestra tecnología avanzada y metodología especializada, protegemos su inversión en cables subterráneos de baja, media y alta tensión.
+
+1.0 Diagnóstico Eléctrico y Mantenimiento Predictivo (OFF-LINE)
+RESISTENCIA DE AISLACION
+TENSION APLICADA (VLF)
+TANGENTE DELTA Y CAPACIDAD
+INTEGRIDAD DE CUBIERTA EXTERIOR
+
+2.0 Medición de Descargas Parciales (ON-LINE)
+METODO INDUCTIVO
+
+3.0 Localización de Fallas (Aislación Principal)
+RESISTENCIA DE AISLACION
+TENSION APLICADA
+REFLECTOMETRIA CONVENCIONAL (TDR)
+METODO DE REFLEXION DE ARCO (ARM)
+METODO DE CORRIENTE DE IMPULSO (ICE)	
+MÉTODO DE DECAIMIENTO (DECAY)
+IMPULSOS DE ALTA ENERGIA (THUMPER)
+DETECCION ACUSTICA Y ELECTROMAGNETICA
+
+4.0 Localización de Fallas en Cubierta exterior
+TENSION APLICADA
+MEDICION (METODO DE MURRAY)
+MÉTODO DEL VOLTAJE DE PASO O (GRADIENTE DE VOLTAJE)
+
+
+5.0 Localización de Ruta y Traza de Cables Subterráneos
+

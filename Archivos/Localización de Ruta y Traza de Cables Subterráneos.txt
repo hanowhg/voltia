@@ -1,0 +1,73 @@
+El Ruteo de Cables Subterráneos es un servicio especializado que permite identificar con precisión el recorrido real, la profundidad y los puntos críticos de cables eléctricos instalados en terreno.
+Se utiliza para evitar daños, verificar infraestructura, localizar empalmes ocultos y optimizar tareas de mantenimiento y localización de fallas.
+El servicio combina tecnología de inyección de señal, métodos inductivos y detección pasiva, logrando el mapeo completo del tendido incluso cuando no existen planos actualizados.
+Objetivo del Servicio:
+• Conocer el camino exacto y real del cable.
+• Detectar empalmes, curvas, cámaras y derivaciones.
+• Estimar la profundidad y detectar tramos superficiales o riesgos mecánicos.
+• Identificar interferencias, cruces con otros servicios y zonas de pérdida de continuidad de pantalla.
+• Obtener un mapa confiable del sistema para intervenir con seguridad.
+
+Métodos utilizados:
+El servicio incluye todos los métodos de trazado disponibles, seleccionados según el acceso, el tipo de cable y el entorno.
+
+Método de Conexión Directa (Galvánico)
+Se conecta el transmisor directamente al conductor, pantalla o armadura.
+Es el método más preciso, ideal cuando se tiene acceso al extremo del cable o a una punta libre.
+Ventajas:
+• Señal fuerte y estable
+• Gran alcance
+• Detecta variaciones típicas de empalmes y daños
+Aplicación:
+• Cables de MT/AT en cámaras, terminales GIS, transformadores.
+
+Método Inductivo con Pinza (Clamp-On)
+Se aplica una pinza inductiva alrededor del cable sin abrir el circuito.
+Ventajas:
+• No requiere desconexión
+• Alta seguridad
+• Ideal en tableros energizados
+Aplicación:
+• Alimentadores en servicio
+• Cables en bandejas o túneles
+
+Método Inductivo por Bobina de Superficie
+Se apoya una bobina transmisora sobre el suelo, induciendo la señal en el punto estimado del cable.
+Ventajas:
+• Excelente cuando no existe acceso físico
+• Permite iniciar el ruteo en calles, parques o zonas sin cámaras
+Aplicación:
+• Barrios cerrados, industrias, cables antiguos sin planos
+Método Pasivo (Sin Inyección de Señal)
+El receptor detecta el campo magnético natural de cables energizados.
+Útil para identificar rápidamente qué líneas están activas.
+Ventajas:
+• Muy rápido
+• No requiere conexión ni equipo transmisor
+Limitaciones:
+• Menor precisión, no detecta cables sin carga.
+
+Resultados:
+• Trazado real del cable, marcado y documentado.
+• Profundidad estimada cada vez que el terreno o la obra lo requiera.
+• Ubicación exacta de empalmes, cámaras y derivaciones.
+• Detección de pérdidas de señal, indicativas de humedad, aplastamientos o corrosión.
+• Informe técnico con fotografías y recomendaciones.
+• Soporte directo para excavaciones, reparaciones y diagnóstico de fallas.
+
+Beneficios:
+• Reduce riesgos y costos antes de excavar o romper pavimento.
+• Evita daños a cables propios y ajenos.
+• Aporta información precisa para mantenimiento, ampliaciones o diagnóstico.
+• Permite confirmar o corregir planos existentes.
+• Complementa técnicas como TDR, VLF, PD acústico y análisis de pantalla.
+• Asegura que cualquier intervención se realice con el menor riesgo operativo.
+
+Sectores en los que se aplica:
+• Barrios cerrados
+• Industrias
+• Centrales eléctricas
+• Parques solares/eólicos
+• Distribuidoras
+• Obras civiles y excavación segura
+• Plantas logísticas y túneles de servicios.

@@ -1,0 +1,239 @@
+1.0 DIAGNOSTICO DE ESTADO ELECTRICO EN CABLES DE BAJA, MEDIA Y ALTA TENSION
+El objetivo de las pruebas y ensayos de cables es descubrir oportunamente posibles daños presentes en
+estos elementos, evitando así interrupciones del servicio durante la operación del sistema de energía.
+Daños y averías producidas principalmente por una inadecuada instalación, y el deterioro por
+envejecimiento en empalmes, terminaciones y su aislamiento principal.
+Son pruebas de campo aplicadas en cualquier momento de la vida útil de un sistema de cables:
+Prueba para Instalación: Es una prueba de campo realizada después de la instalación y montaje de
+tramos de cables nuevos, pero antes de integrar empalmes o terminaciones. La prueba está destinada a
+detectar daños durante el transporte, almacenamiento o fabricación.
+Prueba para Aceptación: Es una prueba de campo realizada después de la instalación del sistema de
+cables nuevos, incluidas las terminaciones y empalmes, pero antes de que el sistema sea energizado o
+puesto en servicio. La prueba está destinada a detectar daños posteriores a la instalación e identificar
+cualquier defecto o error grave en la instalación de accesorios.
+Prueba para Mantenimiento: Prueba de campo realizada durante la vida útil de un sistema de cables,
+por lo general durante un periodo no crítico o en condiciones planificadas. Está destinado a evaluar el
+estado del cable y accesorios, detectar el deterioro y comprobar la capacidad de servicio del sistema.
+Se aplica en sistemas de cables que han estado en servicio por algún tiempo y que puede encontrarse
+con cierto grado de envejecimiento, por lo que los niveles de tensión y duración de prueba son menores
+a los aplicados en pruebas de instalación o aceptación.
+
+1.1 ENSAYO DE RESISTENCIA DE AISLACION:
+La prueba de resistencia de aislamiento en cables de potencia, también conocida como
+prueba  Megger , evalúa la calidad del aislamiento entre los conductores y tierra, o entre conductores,
+para asegurar que no haya fugas de corriente que puedan causar cortocircuitos o fallas peligrosas.
+Se utiliza un  megóhmetro , un instrumento que genera una tensión continua de alto voltaje (500V o más,
+según la aplicación) y mide la resistencia de aislamiento. 
+El megóhmetro se conecta a los conductores y a tierra (o entre conductores) y se aplica la tensión de
+prueba. Se mide la corriente de fuga que fluye a través del aislamiento, y el megóhmetro calcula la
+resistencia. 
+Se compara la resistencia medida con valores de referencia o con mediciones previas para evaluar la
+calidad del aislamiento. Un valor bajo de resistencia indica un aislamiento deficiente y la necesidad de
+tomar medidas correctivas. 
+1.2 ENSAYO DE TENSION APLICADA (VLF):
+La prueba VLF es una prueba de diagnóstico de tensión soportada simple que tiene como objetivo
+verificar la integridad del cable sometido a prueba. Si el cable de prueba tiene un defecto lo
+suficientemente grave a la tensión de prueba aplicada, se iniciará un árbol eléctrico y crecerá en el
+aislamiento en función de la geometría del defecto, la frecuencia y amplitud de la fuente de tensión.
+Esta prueba es aplicada en pruebas de campo de instalación, aceptación y mantenimiento, cuyos
+parámetros de ensayo como el voltaje y tiempos de prueba, consideraciones y metodología es indicada
+por la norma IEEE 400.2-2013 sección 5.1.
+
+En esta prueba se utiliza un equipo de prueba que proporcione una tensión VLF a 0.1 Hz con forma de
+onda senoidal conectado al objeto de prueba por su conductor central. El nivel de tensión de prueba es
+ajustado al valor especificado en la Tabla 3 de la norma IEEE 400.2 según la clase o voltaje de diseño del
+cable. Este voltaje de prueba es aplicado por una hora en pruebas de instalación o aceptación, mientras
+que en mantenimiento es aplicado por 15 o 30 minutos, el cable pasa la prueba si es capaz de
+soportarla, caso contrario, si se produce una falla con el colapso de tensión, el cable no pasa la prueba.
+
+1.3 ENSAYO DE TANGENTE DELTA Y CAPACIDAD:
+La prueba de tangente delta es una prueba de tensión soportada monitoreada, en donde se mide el
+factor de disipación (Tan Delta) en cables para determinar el factor de pérdida del material aislante, ya
+que este factor aumenta durante el proceso de envejecimiento del cable, por tanto, es utilizada como
+diagnóstico.
+El factor de disipación se define como la relación entre la corriente resistiva (IR) y capacitiva (IC) y el
+ángulo delta es el ángulo de fase entre la corriente capacitiva y la corriente total, a una frecuencia ω y
+tensión U.
+
+A. EQUIVALENTE DE AISLAMIENTO. B. AISLAMIENTO IDEAL. C. AISLAMIENTO ENVEJECIDO.
+Donde el aislamiento del cable puede ser representado por un circuito equivalente que consiste en dos
+elementos, una resistencia y una capacitación, que, ante la aplicación de una tensión de prueba VLF, es
+calculado el coeficiente tan del
+
+Para la prueba de tangente delta, el cable es conectado a un equipo de prueba capaz de generar tensión
+VLF senoidal y medir TD, la metodología de prueba esta dictada por la norma IEEE 400.2 sección 5.4 y
+es aplicada en pruebas de campo de mantenimiento.
+En la prueba se mide tangente delta (TD) a 0,5 U0, U0, y 1,5 U0, (U0 Voltaje nominal fase-tierra del
+cable), por cada paso se debe incluir al menos seis mediciones de TD en intervalos de 10s a 0,1 Hz. Se
+calculan tres parámetros importantes, tangente delta promedio, tangente delta diferencial y la
+estabilidad de tangente delta, que vienen determinadas principalmente por la degradación del
+aislamiento del cable (árboles de agua), la corrosión de los blindajes metálicos, la humedad del
+aislamiento y la degradación de los accesorios.
+Tangente delta promedio (    ̅̅̅̅): Es el valor promedio de las mediciones de TD en cada paso de
+tensión.
+
+Tangente Delta diferencial (DTD): Es la diferencia del valor TD medido entre dos niveles de tensión,
+indica el comportamiento de TD con el incremento de voltaje.
+
+Estabilidad temporal de Tangente Delta (TDTS): Es la desviación estándar de los valores TD
+medidos en el tiempo a un paso de tensión.
+
+La medición TD con forma de onda sinusoidal de 0,1 Hz ofrece una evaluación comparativa del
+envejecimiento de los aislamientos de PE, XLPE, TRXLPE, EPR y tipo papel, cuyos resultados permiten
+diferenciar entre sistemas de cables nuevos, defectuosos y muy degradados.
+Los valores absolutos de VLF-TD, VLF-DTD y estabilidad temporal (VLF-TDTS) son utilizados como cifras
+de mérito o se comparan con datos históricos para calificar el estado del aislamiento del cable como:
+ No se requiere ninguna acción.
+ Se aconseja un estudio más detallado.
+ Acción requerida.
+La norma IEEE 400.2 proporciona tablas con cifras de mérito para evaluación de aislamiento según su
+tipo.
+
+1.4 ENSAYO DE INTEGRIDAD DE CUBIERTA EXTERIOR:
+Esta prueba se utiliza para verificar la integridad eléctrica de la cubierta externa del cable después de su
+instalación en ductos, para ello se sigue la cláusula 5 de la norma IEC 60229:2007 y utiliza un equipo
+Hipot DC conectado por la pantalla del cable.
+Consiste en aplicar una tensión continua de 4kV por milímetro de espesor de la cubierta exterior extruido
+con un máximo de 10 kV entre la pantalla metálica y el electrodo exterior durante un período de 1
+minuto; en donde no deberá producirse ninguna descarga disruptiva durante la prueba. Para que la
+prueba sea efectiva, es necesario que el suelo haga buen contacto con toda la superficie de la cubierta.
+
+2.0 LOCALIZACION DE FALLAS EN CABLES DE BAJA, MEDIA Y ALTA TENSION.
+Las fallas en los cables son provocadas por diversos factores, tales como: desperfectos de fabricación,
+sobre exigencias en su uso, instalación deficiente, por efecto del tipo de suelo, entre otras.
+El objetivo de nuestro servicio es lograr la localización de fallas de forma rápida y precisa, a fin de
+recuperar la operatividad del sistema eléctrico del cliente. Contamos con personal técnico capacitado e
+instrumentos de alta calidad.
+
+2.1 ENSAYO DE RESISTENCIA DE AISLACION:
+Una de las primeras pruebas que se realiza en el proceso de pre - localización de fallas en cables es la
+medición resistencia de aislación. Esta técnica es fundamental para obtener un primer diagnóstico del
+estado de la misma y permitir clasificar el tipo de falla presente, información clave para seleccionar el
+método de localización más adecuado.
+La prueba consiste en aplicar una tensión continua habitualmente entre 500 V y 5000 V (dependiendo de
+la tensión de servicio), entre conductor y pantalla vinculada a tierra, mediante un Megóhmetro. Este
+equipo mide la resistencia de aislación, es decir, cuánta corriente de fuga atraviesa el aislamiento bajo
+una tensión de ensayo determinada. A partir de este resultado, es posible identificar la severidad de la
+falla.
+En este sentido, si la resistencia medida es muy baja (en el orden de los kilo-ohm o menos), se
+interpreta como una falla franca a tierra, es decir, un cortocircuito directo entre conductor y tierra o una
+perforación total del aislamiento. Por el contrario, si la resistencia es alta (en el orden de los megaohms
+o gigaohms), se trata de una falla de alta impedancia, donde el contacto a tierra no es directo o franco.
+Esta clasificación es crítica ya que las técnicas de localización posteriores varían en función del tipo de
+falla. Por ejemplo, las fallas de alta impedancia requieren métodos como el uso de onda de choque para
+poder ser detectadas, mientras que las fallas francas pueden localizarse directamente mediante
+reflectometría convencional.
+Este procedimiento se aplica en cables de baja, media y alta tensión, ya sea para cables de transmisión
+o distribución de potencia. Es una prueba sencilla, no destructiva y de rápida ejecución, lo que la
+convierte en una herramienta esencial en cualquier procedimiento de diagnóstico de cables.
+
+Es importante destacar que, aunque el megado no localiza la falla en forma directa, proporciona
+información vital sobre su naturaleza y severidad, permitiendo así optimizar el proceso de localización
+posterior y prevenir la aplicación de métodos inadecuados que podrían dañar aún más el cable.
+2.2 ENSAYO DE TENSION APLICADA:
+La prueba de tensión aplicada en el proceso de localización de falla no tiene carácter de diagnóstico ni de
+aceptación del cable, sino que se emplea exclusivamente para determinar el voltaje de disrupción de la
+avería, es decir, a qué nivel de tensión es encendida la falla en el cable defectuoso.
+El procedimiento consiste en aplicar una tensión continua creciente entre el conductor y tierra, sin
+superar el valor de la tensión de servicio por fase, con el objetivo de inducir una ruptura dieléctrica
+temporal en el punto débil o defecto del sistema de aislación.
+La respuesta del cable frente a esta tensión permite clasificar la naturaleza de la falla:
+Disrupción posterior a un cierto tiempo y a valores cercanos a la tensión de prueba. Este es un indicativo
+de existencia de falla no franca de alta resistencia ya que requiere superar cierta tensión para producir la
+ruptura.
+Disrupción en los primeros instantes de inyección de tensión. El cable presenta una falla franca de
+cortocircuito, no es capaz de soportar tensión y produce caída de tensión instantánea a tierra.
+Esta técnica es útil para confirmar la presencia de defectos que no se manifiestan a tensiones bajas,
+como las aplicadas en un megado convencional.
+2.2.1 SEGUIMIENTO DE TRAZA:
+Este método consiste en conectar un generador de audiofrecuencia, operando normalmente en el rango
+de 60 Hz a 200 kHz, al conductor y a la pantalla metálica del cable. Estos conductores, junto con la falla,
+proporcionan una vía de corriente para la señal, siendo la tierra una vía adicional.
+Una antena direccional sintonizada se utiliza para detectar el campo magnético generado por la corriente
+inyectada. Dependiendo de la polarización de la antena con respecto al trazado y al cable, se detecta
+una señal nula o de pico directamente sobre el cable. Las mediciones de los cambios de señal,
+especialmente en la lectura nula, se utilizan para la localización de empalmes, detección de la corrosión
+del blindaje metálico y localización de fallas que no emiten una señal acústica.
+
+2.2.2 REFLECTOMETRIA CONVENCIONAL (TDR):
+La reflectometría en el dominio del tiempo (TDR) se utiliza para localizar y caracterizar los cambios de
+impedancia en un sistema de cables. Esta es una prueba sencilla que es aplicada para medir la longitud
+del cable para pruebas de diagnóstico y para localizar fallas de baja resistencia, obteniendo la distancia
+en donde se encuentra la avería.
+Para lo cual, los reflectómetros (TDR) transmiten pulsos de baja tensión y de corta duración por el
+conductor del cable. Registran el tiempo transcurrido del pulso al recorrer toda la longitud del cable y sus
+reflexiones producidas por desviaciones de la estructura homogénea del cable. Estas reflexiones inciden
+de vuelta a la fuente y son mostradas en una pantalla de visualización.
+
+Los cambios en las impedancias aparecen en una secuencia temporal y permiten al operador ubicar e
+identificar el inicio y fin del cable, los empalmes y derivaciones, los cambios en el tipo de cable y averías
+como cortocircuitos e interrupciones. La lectura digital de un TDR proporciona la distancia a la avería y la
+medición de la longitud del cable, a partir del tiempo de reflexión de un pulso conociendo la velocidad de
+propagación de conductor. La medición TDR se realiza con el cable fuera de línea y requiere que al
+menos dos conductores (conductor central y la pantalla) estén en estrecha proximidad.
+
+2.2.3 METODO DE REFLEXION DE ARCO (ARM):
+El método reflexión del arco de sobretensión permite localizar fallas de alta resistencia e intermitentes.
+Donde un generador de sobretensión puede convertir dichas fallas temporalmente en fallas de
+resistencia muy inferiores a la impedancia característica, facilitando su localización en una operación
+combinada de TDR y el generador de sobretensión en dos fases.
+En la primera fase de la medición, los pulsos del TDR no son reflejados por la falla de alta resistencia o
+intermitente y sólo son visibles el inicio, final y empalmes del cable. En la segunda fase, se conecta el
+generador de sobretensión, cuya amplitud del pulso de sobretensión es lo suficientemente alta como
+para romper la avería y generar un arco en su lugar. El pulso del TDR se reflejará en el arco y una
+imagen de la falla temporal de baja resistencia se visualizará como una reflexión negativa, indicando la
+ubicación de la falla en pantalla. Una vez que cesa el arco, la falla vuelve a su estado de alta resistencia.
+
+2.2.4 METODO DE CORRIENTE DE IMPULSO (ICE):
+El método de corriente de impulso permite localizar averías en cables de alta resistencia e intermitentes.
+Donde un generador de sobretensión envía un pulso de alta tensión al cable defectuoso, produciendo un
+arco eléctrico en el lugar de la avería.
+Parte de la energía del impulso de AT se refleja en el inicio del cable y, debido a la baja impedancia del
+condensador de sobretensión, es reflejada nuevamente en el cable. La señal rebota hasta que se disipa
+toda su energía. Este proceso puede ser observado acoplando un TDR en el cable, donde el espaciado de
+las reflexiones que se muestran en una pantalla es la medida de la distancia a la falla.
+
+2.2.5 MÉTODO DE DECAIMIENTO (DECAY):
+El método Decay permite localizar averías en cables de alta resistencia e intermitentes cuando la tensión
+de ruptura de la avería es superior a la tensión máxima disponible del generador de sobretensión, o
+cuando la capacitancia del cable se aproxima o supera la capacitancia de un thumper.
+Un equipo de prueba de CC o un quemador cargarán continuamente el cable hasta que se produzca el
+arco de la avería. En cada arco, se genera una onda viajera que se refleja de un lado a otro entre el
+inicio del cable y la falla, hasta que se disipa su energía. Esto puede ser observado acoplando un TDR,
+cuyo espaciado de las reflexiones que se muestran en una pantalla es la medida de la distancia a la falla.
+
+2.3 ETAPA DE PUNTUALIZACION: (UBICACIÓN EXACTA DE LA FALLA)
+2.3.1 IMPULSOS DE ALTA TENSION:
+Los thumpers son dispositivos de descarga capacitiva y de generación de sobretensión en AT, con
+suficiente tensión y energía para romper un punto de avería y también generar un golpe audible en la
+
+ubicación de la vería en el cable. El Thumper se caracteriza por su tensión y energía nominales. La
+energía nominal se calcula según la ecuación:
+
+Donde E es la clasificación energética del thumper (J o W-s), C es la capacitancia interna (F) y V es la
+tensión nominal del thumper.
+El funcionamiento del Thumper se basa en la descarga periódica de su condensador interno en el cable.
+Cuyo propósito es romper la falla en el espacio de chispa (spark gap) y causar un ruido audible en ella, o
+bien proporcionar una corriente de arco lo suficientemente fuerte para permitir la medición de la
+reflexión del arco.
+La aplicación combinada de equipos Thumper y TDR es útil para prelocalizar fallas mediante el método
+de reflexión del arco y luego identificar la falla con instrumentos acústicos y/o electromagnéticos.
+
+2.3.2 DETECCION ACUSTICA Y ELECTROMAGNETICA:
+El método consiste en descargar un condensador (Thumper) en el cable defectuoso. Luego, con un
+detector electromagnético, se rastrea el pulso del golpe por el cable, mientras que con el detector
+acústico se detecta el golpe audible causado por la descarga. En las proximidades de la falla, la onda de
+transición magnética se utiliza para iniciar un temporizador y la señal acústica para detenerlo. La
+medición del tiempo transcurrido indica la distancia o profundidad de la falla. Cuando el tiempo
+transcurrido entre el flashover y el golpe es mínimo, el operador se encuentra directamente encima de la
+falla.
+
+SEGUIMIENTO DE TRAZA EN CABLES DE BAJA, MEDIA Y ALTA TENSION.
+
+NORMAS DE REFERENCIAS:
+
+IEEE Std 400.2-2013: IEEE Guide for Field Testing of Shielded Power Cable Systems Using
+Very Low Frequency (VLF) (less than 1Hz).
+IEEE Std 1234-2019: IEEE Guide for Fault-Locating Techniques on Shielded Power Cable
+Systems.
+IEC 60229-2007: Tests on extruded oversheaths with a special protective

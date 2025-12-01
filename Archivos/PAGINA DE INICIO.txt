@@ -1,0 +1,77 @@
+Diagnóstico y Localización de Fallas en Cables Subterráneos
+Servicios especializados con tecnología VLF y Tangente Delta para redes de baja, media y alta tensión.
+
+"Nuestros Servicios Especializados en cables subterráneos de baja, media y alta tensión
+Ofrecemos un servicio integral de diagnóstico y localización de fallas para garantizar la fiabilidad y continuidad operativa de su red eléctrica. Con nuestra tecnología avanzada y metodología especializada, protegemos su inversión en cables subterráneos de baja, media y alta tensión.
+
+1.0 Servicio de Diagnóstico Eléctrico y Mantenimiento Predictivo (OFF-LINE):
+Las fallas en cables subterráneos no avisan. Se manifiestan como interrupciones costosas y repentinas. Nuestro servicio de diagnóstico eléctrico no busca fallas, las previene. Mediante un análisis avanzado, evaluamos la salud del aislamiento de sus cables, lo que le permite planificar reparaciones y evitar interrupciones no programadas que afectan su productividad y sus finanzas. 
+En Voltia realizamos un diagnóstico integral, utilizando la última tecnología en pruebas de cables (VLF y análisis de Tangente Delta) para ofrecerle un análisis preciso y detallado del estado de sus activos, basado en las directrices de la norma IEEE 400.2.2013.
+Nuestro enfoque le garantiza resultados que cumplen con los estándares más exigentes de la industria, asegurando la fiabilidad de sus cables a largo plazo.
+Evaluación Inicial: Evaluamos el historial y las características de su red para diseñar un plan de pruebas personalizado.
+1. Pruebas No Destructivas: Realizamos pruebas con tecnología VLF para estresar el aislamiento del cable sin dañarlo, revelando puntos débiles.
+2. Análisis de Tangente Delta: Complementamos el diagnóstico midiendo el factor de disipación del aislamiento. Esto nos permite cuantificar el nivel de envejecimiento o degradación del cable.
+3. Informe Detallado: Le entregamos un informe exhaustivo con los resultados de las pruebas, un diagnóstico claro del estado de sus cables y recomendaciones precisas para su mantenimiento.
+
+Utilizamos la combinación más efectiva y segura del mercado para el mantenimiento predictivo de cables subterráneos:
+o Pruebas VLF (Very Low Frequency): Este método de prueba de alta tensión de baja frecuencia es ideal para cables de media y alta tensión. Nos permite aplicar un estrés controlado en el aislamiento, identificando fallas latentes de manera segura y no destructiva.
+o Análisis de Tangente Delta: Complementando el VLF, el análisis de Tangente Delta (Factor de Disipación) mide las pérdidas dieléctricas del aislamiento. Los valores que obtenemos nos dan una indicación precisa del grado de envejecimiento, humedad o contaminación que afecta al cable.
+
+Con nuestro servicio de diagnóstico eléctrico, usted obtendrá:
+o Continuidad Operativa: Minimice el riesgo de fallas repentinas y costosas interrupciones de servicio.
+o Optimización de Costos: Realice reparaciones planificadas en lugar de costosas reparaciones de emergencia.
+o Extensión de la Vida Útil: Tome decisiones informadas sobre el reemplazo de activos, evitando la sustitución prematura de cables.
+o Seguridad Mejorada: Reduzca los riesgos de fallas eléctricas que puedan comprometer la seguridad de su personal e instalaciones.
+
+2.0 Medición de Descargas Parciales (ON-LINE):
+
+En la actualidad existen distintos métodos y ensayos para realizar diagnósticos predictivos sobre cables de Media y Alta tensión, sin embargo, ante la necesidad de poder realizar mantenimientos, pero con detenciones cada mes espaciadas y sobre todo más acotadas es que toman mayor importancia las medidas de carácter ON LINE, sin embargo, nunca se debe dejar de lado las medidas OFF LINE dado que las primeras son ensayos complementarios de las segundas y no al revés.
+Por consiguiente, la metodología que se menciona se denomina medición de Descargas Parciales On Line – Método Inductivo, la misma consiste en realizar esta medida desde los link de puesta a tierra de los conductores y así de esta manera evaluar el fenómeno de las Descargas Parciales vs Potencial de Tierra. Al realizar esta medida desde este punto tiene la virtud y característica que no es necesario realizar ningún tipo de desconexión ni desenergización por parte del circuito. Del mismo modo este método permite realizar un análisis global del estado del o los conductores, mediante la realización de análisis por un tiempo determinado de 24 horas.
+Durante el tiempo determinado de medida no solo se debe tener en consideración los valores absolutos sino también la tasa de repetición de los mismos. Si bien con una sola medid se obtiene mucha información respecto del estado del o los circuitos es importante mencionar que esta medida como la totalidad de las medidas predictivas se evalúan en función de su tendencia de comportamiento en el tiempo, pero dada la facilidad de realizarla se recomienda efectuar su análisis en periodos acotados con la finalidad de desplazar el tiempo de las medidas del tipo Off Line, con lo que con lleva a realizar una detención.
+Voltia es una empresa especialista en medidas eléctricas predictivas, cuenta con un staff de mas de 20 años de experiencia en la misma. Pero no solo la experiencia profesional es el todo, aunque esta influye en el 90% de la medida, es necesario complementarla con instrumental acorde, por dicho motivo es que se utiliza la línea de medición de la marca Omicron, dado que es una marca que hoy en día brinda seguridad y garantía de poder realizar una medida conforme a lo estipulado en las normativas de referencia.
+
+3.0 Localización de Fallas (Aislación Principal):
+Un apagón causado por una falla en un cable subterráneo genera un alto grado de incertidumbre y pérdidas. El rastreo manual o con equipos obsoletos es un proceso lento, costoso y a menudo destructivo. Nuestro servicio elimina las conjeturas, utilizando la más reciente tecnología para identificar el punto exacto de la falla, permitiendo una reparación eficiente y rápida.
+
+Nuestro proceso está diseñado para ser eficiente y preciso, combinando diversas técnicas de última generación para asegurar la máxima exactitud.
+1. Reflectometría (TDR): Iniciamos el proceso con un análisis de reflectometría en el dominio del tiempo (TDR). Esta técnica no invasiva envía pulsos de baja tensión por el cable para determinar la distancia aproximada a fallas de baja resistencia (cortocircuitos o circuitos abiertos).
+2. Medición de Resistencia de Aislamiento (Megger): Realizamos una medición de resistencia con un megóhmetro para evaluar la calidad del aislamiento y la resistencia de la falla, lo que nos ayuda a clasificar el tipo de avería.
+3. Reflectometría de Alta Energía (ARM/ICE): Para fallas de alta resistencia o intermitentes, utilizamos métodos de alta energía como la reflectometría de arco (ARM) o el método de corriente de impulso (ICM). Estos métodos extienden los principios reflectométricos a fallas que no se reflejan con baja energía.
+4. Acondicionamiento de la Falla con Alto Voltaje (Thumper): En casos de fallas de alta resistencia, utilizamos un generador de impulsos (Thumper) que aplica alto voltaje de forma controlada. Esto acondiciona la falla, reduciendo su resistencia y facilitando su detección precisa.
+5. Localización Precisa con Métodos Acústicos y Electromagnéticos: Una vez que la falla está acondicionada, el Thumper produce una descarga audible y un campo electromagnético en el punto exacto de la avería. Con nuestros sensores de última generación, detectamos y localizamos este pulso con precisión milimétrica.
+6. Verificación y Marcado: Con el punto de la falla identificado, realizamos una verificación final y marcamos el lugar para que la excavación sea mínima, reduciendo el tiempo y el costo de la reparación.
+
+Beneficios de Nuestra Tecnología de Punta
+o Máxima Precisión: La combinación de métodos garantiza la ubicación exacta de cualquier tipo de falla, eliminando excavaciones innecesarias.
+o Mínimo Tiempo de Inactividad (Downtime): La rapidez de nuestro proceso se traduce en una restauración del servicio significativamente más veloz.
+o Menores Costos de Reparación: Al ubicar la falla con exactitud, se reducen los costos de mano de obra y la necesidad de excavar grandes áreas.
+o Seguridad y Eficiencia: La tecnología avanzada permite un proceso más seguro para nuestros técnicos y un resultado más eficiente para nuestros clientes.
+
+4.0 Localización de Fallas en Cubierta exterior:
+Las fallas en la cubierta exterior de los cables subterráneos no provocan un fallo instantáneo, pero representan una amenaza grave y progresiva. Con el tiempo, estos daños permiten la entrada de humedad y contaminantes al aislamiento principal, degradándolo y aumentando el riesgo de un cortocircuito catastrófico. En Voltia, ofrecemos un servicio especializado para identificar y localizar estos daños ocultos, protegiendo su inversión a largo plazo y garantizando la confiabilidad de su red. 
+Iniciamos el proceso aislando la sección de cable sospechosa de la red. Aplicamos pruebas de resistencia de aislamiento para confirmar la existencia de una falla en la cubierta y determinar si es una falla de alta o baja resistencia.
+Para obtener una estimación precisa de la distancia a la falla, utilizamos técnicas de puenteo como el Puente de Murray. Este método nos permite calcular la ubicación aproximada de la avería en la cubierta con gran exactitud.
+Una vez pre-localizada la falla, aplicamos un voltaje controlado entre la pantalla del cable y tierra. Con sensores especializados, medimos el gradiente de tensión que se crea en la superficie del terreno. La medición del voltaje de paso nos permite ubicar con precisión el punto exacto de la fuga de corriente.
+Con el punto de la falla identificado, realizamos una verificación final y marcamos el lugar con precisión. Esto permite a su equipo de reparación intervenir directamente en el área afectada, minimizando la excavación necesaria y el impacto en su operación.
+o Prevención de Fallas Mayores: Al detectar y reparar a tiempo el daño en la cubierta, se evita el deterioro progresivo que conduce a fallas catastróficas del aislamiento principal.
+o Protección de la Inversión: Se prolonga la vida útil de sus activos al prevenir la corrosión y los daños por humedad.
+o Reparación Eficiente: La precisión de la localización reduce el tiempo y los costos de reparación, minimizando la necesidad de excavaciones extensas.
+
+5.0 Localización de Ruta y Traza de Cables Subterráneos
+El movimiento de tierras y las obras civiles representan un riesgo constante para las redes de cableado subterráneo. Un daño accidental a un cable enterrado puede provocar una interrupción catastrófica del servicio, pérdidas económicas y riesgos para la seguridad del personal. Nuestro servicio de localización de ruta y traza elimina este riesgo al identificar con exactitud la posición de los cables, permitiendo planificar y ejecutar proyectos con total seguridad.
+Utilizamos equipos de alta tecnología que nos permiten detectar y mapear la ubicación de los cables sin necesidad de excavaciones.
+1. Detección Electromagnética: A través de un generador de señales, inducimos una señal en el cable o tubería metálica. Con un receptor especializado, detectamos el campo electromagnético generado, lo que nos permite seguir el recorrido del cable en
+2. Medición de Profundidad: Nuestros equipos también nos permiten calcular la profundidad a la que se encuentran los cables y tuberías, proporcionando una información crucial para cualquier proyecto de excavación.
+3. Localización de Cables Energizados: Nuestros receptores pueden sintonizar la frecuencia de la red, lo que nos permite localizar cables que ya se encuentran en servicio sin necesidad de desconectar la energía.
+4. Mapeo y Marcado: Una vez identificada la traza, marcamos el recorrido y la posición de los cables en la superficie, entregando un plano detallado que sirve como referencia para futuros trabajos. 
+
+Beneficios clave de nuestro servicio
+* Seguridad para su Proyecto: Evite accidentes, daños a la infraestructura y riesgos para el personal al tener un conocimiento preciso de la ubicación de los cables.
+* Minimización de Riesgos y Costos: Al no adivinar la ubicación de los cables, se evitan las reparaciones costosas y las interrupciones imprevistas del servicio.
+* Eficiencia en la Planificación: Cuente con información precisa sobre la ubicación de los cables para planificar sus proyectos de obra civil, excavación o tendido de nuevas redes de manera más eficiente.
+* Información Crucial: Obtenga un mapa detallado del recorrido de sus cables, incluyendo la profundidad, lo que le permite tener un control total sobre su infraestructura subterránea.
+
+En Voltia, nuestra metodología y procesos de diagnóstico y localización de fallas se adhieren estrictamente a las normativas y guías técnicas más reconocidas a nivel mundial. Esto garantiza que cada servicio se realice con la máxima precisión, seguridad y confiabilidad, ofreciéndole resultados que cumplen con los más altos estándares de la industria.
+IEEE 1234™: Esta guía se centra en técnicas de localización de fallas para sistemas de cables de potencia blindados, especialmente para fallas de alta resistencia o intermitentes.
+IEEE 400.2-2013: Guía para pruebas de campo de sistemas de cables de potencia blindados con muy baja frecuencia (VLF).
+IEC 60229: Norma para ensayos en cubiertas extruidas con el objetivo de evaluar su integridad.

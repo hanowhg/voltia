@@ -1,0 +1,30 @@
+Reflectometria Convencional (TDR)
+
+La Reflectometría en el Dominio del Tiempo (TDR) es un método de diagnóstico no destructivo que evalúa la condición interna de un cable de potencia mediante la inyección de un tren de pulsos de baja tensión y alta frecuencia dentro del conductor principal. Estos pulsos, al propagarse a lo largo del cable, se comportan como ondas viajeras sensibles a cualquier modificación en la impedancia característica del sistema conductor–aislante–pantalla. Cuando la onda encuentra una variación —por mínima que sea— parte de la energía se refleja hacia la fuente, generando una señal que el equipo interpreta para construir un perfil longitudinal de impedancias.
+Este método permite identificar de forma anticipada múltiples condiciones internas del cable, todas ellas directamente vinculadas a cambios en su impedancia característica:
+
+Cambios de impedancia en empalmes y terminales
+Los empalmes, uniones y accesorios poseen una geometría eléctrica diferente al cable, lo que genera micro-desadaptaciones de impedancia. El TDR permite verificar que estos componentes presenten un comportamiento estable, uniforme y compatible con la instalación, detectando empalmes envejecidos, deformados o con variaciones internas que podrían evolucionar hacia condiciones críticas.
+
+Variaciones asociadas a humedad
+La presencia de humedad altera la permitividad dieléctrica del aislante y la pantalla, modificando localmente la impedancia. El TDR identifica estos sectores como anomalías suaves o distribuídas, incluso en etapas muy tempranas, permitiendo actuar antes de que se desarrollen procesos de degradación severos o descargas parciales.
+
+Interrupciones, discontinuidades y problemas mecánicos
+Deformaciones por tracción, aplastamientos, radios de curvatura severos, desplazamiento del conductor o pantallas dañadas producen cambios abruptos o graduales en la impedancia. El TDR registra estas irregularidades mediante reflexiones características que permiten delimitar sectores donde el cable pudo haber sufrido esfuerzos mecánicos, movimientos del terreno, interferencias de obra civil o defectos de instalación.
+
+Perfil eléctrico como referencia de condición
+Al analizar la forma de onda reflejada, el TDR genera una “firma eléctrica” completa del cable donde cada tramo posee un patrón de impedancia propio. La comparación entre fases o con mediciones históricas permite identificar evolución del envejecimiento, cambios incipientes en el dieléctrico, desplazamientos internos y cualquier desviación que indique pérdida de homogeneidad estructural.
+
+La Reflectometría TDR aporta una evaluación rápida, segura y extremadamente sensible del estado interno del cable, sin necesidad de aplicar alta tensión. Es un análisis ideal para:
+
+• Detectar variaciones internas antes de que se transformen en fallas reales.
+
+• Validar la calidad eléctrica actual de empalmes y terminales.
+
+• Identificar zonas con tensión mecánica o humedad en etapas tempranas.
+
+• Complementar ensayos VLF, Tan Delta y la Integridad de la cubierta exterior para obtener un diagnóstico integral.
+
+• Crear una línea base técnica que permite realizar mantenimiento predictivo.
+
+En síntesis, la Reflectometría TDR permite visualizar todos los elementos que modifican la impedancia del cable a lo largo de su recorrido, brindando una visión clara de su estabilidad eléctrica y su comportamiento estructural, optimizando la toma de decisiones y aumentando la confiabilidad operativa de la red.

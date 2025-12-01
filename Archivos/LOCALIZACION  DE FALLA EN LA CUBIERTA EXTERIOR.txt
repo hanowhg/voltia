@@ -1,0 +1,88 @@
+Problemas que Genera una Falla en la Cubierta Exterior
+Una falla en la cubierta, aunque sea mínima, desencadena procesos progresivos que comprometen seriamente la vida útil del cable:
+
+Ingreso de agua y humedad:
+• Se inicia corrosión de la pantalla metálica.
+• La humedad migra hacia el XLPE → arborescencias (water trees).
+• Aumento de la pérdida dieléctrica y riesgo de fallo bajo tensión.
+
+Corrosión de la pantalla:
+• Pérdida de espesor metálico.
+• Aumento de resistencia óhmica.
+• Riesgo de corte de pantalla, dejando el cable inseguro para corrientes de falla.
+
+Daño mecánico interno:
+• Ovalización del conductor.
+• Deformación del aislamiento XLPE.
+• Aparición de descargas parciales internas.
+ Propagación hacia empalmes y cámaras:
+• Humedad que viaja por capilaridad hacia empalmes.
+• Tracking, corrosión y fallas térmicas.
+• Riesgo de explosión de empalme en MT/AT.
+
+Incremento de TD y PD:
+• Aumento de la tangente delta en VLF.
+• Descargas parciales acústicas e internas.
+
+Impacto económico y operativo:
+• Reparaciones más extensas y costosas.
+• Paradas no programadas.
+• Reemplazo de tramos largos del cable.
+Conclusión: Una perforación en la cubierta no es un daño menor: es el inicio de una falla mayor en el sistema.
+
+Ensayo de Integridad de la Cubierta (IEC 60229)
+Una vez identificada la necesidad de evaluar el cable, se realiza el ensayo normativo para confirmar si la cubierta está o no perforada.
+
+Se aplica una tensión contin
+ua de hasta 10 kV CC entre:
+• La pantalla metálica del cable
+• El terreno húmedo o cama conductiva
+Si la cubierta está sana → no hay fuga.
+Si está dañada → se observa:
+• Corriente de fuga localizada
+• Caída brusca de resistencia
+• Tensión de ruptura inferior a la esperada
+Este ensayo confirma la existencia del defecto, pero no indica dónde está.
+
+Medición de la Distancia a la Falla (Método de Murray)
+Con la falla confirmada, se determina la distancia exacta al punto dañado mediante el puente de Murray, método resistivo ampliamente usado en cables.
+
+El cable tiene una resistencia proporcional a su longitud.
+Si la pantalla está en contacto resistivo con tierra en un punto, la resistencia del extremo a la falla indica cuántos metros hay hasta el daño.
+El equipo calcula la distancia mediante:
+d = \frac{R_1}{R_1 + R_2} \cdot L 
+Resultado: la distancia exacta desde el extremo del cable hasta la falla, expresada en metros.
+
+ Localización Puntual en Superficie
+Con la distancia obtenida, se realiza la ubicación física del punto:
+• Se traza el cable con receptor inductivo (método activo y pasivo).
+• Se siguen planos y referencias de obra.
+• Se mide el recorrido real hasta coincidir con la distancia entregada por Murray.
+Finalmente, se marca el punto exacto donde excavar, con precisión centimétrica.
+
+Ventajas de Localizar la Falla con Precisión
+Localizar y marcar la falla exacta aporta beneficios técnicos y económicos inmediatos:
+Excavación mínima
+Solo se abre el punto preciso del daño, sin romper de más.
+
+Menores costos y tiempos de obra
+Se evita maquinaria innecesaria, mano de obra excesiva y pérdida de servicio.
+ 
+
+Reparación puntual y eficiente
+Se interviene solo el área dañada, preservando el resto del cable.
+
+Prevención de fallas mayores
+Evita que la humedad avance al XLPE o a los empalmes.
+
+Mayor confiabilidad del sistema
+Una cubierta reparada aumenta la vida útil del cable.
+
+Seguridad operativa
+Reduce riesgos eléctricos y mecánicos en obras posteriores.
+Resultado Final del Servicio
+El cliente obtiene:
+• Confirmación del estado de la cubierta
+• Distancia exacta a la falla (método Murray)
+• Ubicación puntual marcada en terreno
+• Fotografías, informe y recomendaciones de reparación

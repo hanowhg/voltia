@@ -1,0 +1,53 @@
+Medición de la distancia a la falla
+Método de Murray (Puente de Murray)
+El método de Murray es un método de prelocalización que permite calcular la distancia eléctrica hasta la falla en un cable con cubierta dañada o conductor/pantalla en contacto con tierra.
+
+Objetivo
+Determinar cuántos metros desde el punto de ensayo se encuentra la falla, antes de salir a campo a localizarla físicamente.
+
+Principio de funcionamiento
+
+El circuito se arma como un puente resistivo, donde la resistencia del cable es proporcional a su longitud.
+Comparando dos ramas del puente, se obtiene la relación entre la resistencia hasta la falla y la resistencia del tramo total del cable.
+
+Conexión
+• Se utiliza el cable averiado y otro cable sano en paralelo desde el mismo punto de ensayo.
+• Conexiones: 
+• Brazo 1: tramo del cable averiado hasta la falla.
+• Brazo 2: cable sano de igual sección/longitud conocido.
+• Brazo 3 y 4: resistencias variables del puente.
+• El galvanómetro se coloca entre la unión media de ambos brazos y la unión media del lado opuesto del puente.
+Ajuste del puente
+• Se ajustan las resistencias hasta que el galvanómetro marque cero (equilibrio).
+• En ese punto:
+R₁ / R₂ = L₁ / L₂
+donde:
+• R₁ = resistencia del cable hasta la falla
+• R₂ = resistencia del cable sano (equivalente)
+• L₁ = distancia a la falla
+• L₂ = longitud total del cable o longitud del cable de referencia
+Cálculo final
+Se despeja:
+L_1 = \frac{R_1}{R_1 + R_2}\; \cdot L_\text{total} 
+→ L₁ = distancia estimada desde el punto de ensayo hasta la falla.
+ Puntualización de la falla por Gradiente de Tensión
+(Localización exacta en superficie)
+Una vez conocida la distancia aproximada, se sale al campo a precisar el punto exacto mediante el método de gradiente de tensión.
+Principio
+El equipo inyecta una tensión entre la pantalla/cubierta y tierra.
+La corriente de fuga fluye por el punto de falla, generando un campo eléctrico localizado en el terreno.
+Ese campo provoca un gradiente de potencial que se puede medir desde superficie.
+Conexión para la puntualización
+• Borne + del equipo → Pantalla/cubierta del cable.
+• Borne – del equipo → Tierra.
+• Se retiran los puentes de puesta a tierra para aislar la pantalla.
+• Se mantiene una tensión estable (hundreds of volts a pocos kV).
+Procedimiento de puntualización
+• Sobre la traza estimada (obtenida por Murray), se avanza con dos electrodos conectados al receptor.
+• Los electrodos miden la diferencia de potencial (ΔV) del terreno.
+• El valor del gradiente aumenta al acercarse a la falla.
+• El punto exacto se identifica cuando: 
+• El gradiente llega al máximo, o
+• El receptor cambia de polaridad, o
+• Se observa una inversión brusca de pendiente.
+Ese punto es la proyección en superficie del defecto, lista para excavación.
