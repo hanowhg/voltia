@@ -5,8 +5,8 @@
       <div class="container-custom">
         <div class="max-w-4xl mx-auto text-center">
           <h1 class="text-4xl md:text-5xl font-bold mb-6">Diagnóstico Eléctrico y Mantenimiento Predictivo</h1>
-          <p class="text-xl text-orange-50">
-            Servicios especializados OFF-LINE para cables de baja, media y alta tensión
+          <p class="text-2xl font-bold text-orange-50">
+            Servicios especializados OFF-LINE para cables de Baja, Media y Alta tensión
           </p>
         </div>
       </div>
@@ -192,7 +192,7 @@
                   <img src="/tangente1.jpg" alt="Tabla de cifras de mérito 1" class="w-full max-w-2xl rounded-lg shadow-md" />
                 </div>
                 <div class="flex justify-center">
-                  <img src="/tangente2.jpg" alt="Tabla de cifras de mérito 2" class="w-full max-w-2xl rounded-lg shadow-md" />
+                  <img src="/tangente6.jpg" alt="Tabla de cifras de mérito 2" class="w-full max-w-2xl rounded-lg shadow-md" />
                 </div>
                 <div class="flex justify-center">
                   <img src="/tangente3.jpg" alt="Tabla de cifras de mérito 3" class="w-full max-w-2xl rounded-lg shadow-md" />

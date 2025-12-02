@@ -5,7 +5,7 @@
         <!-- Company Info -->
         <div class="md:col-span-2">
           <div class="flex items-center mb-6">
-            <img src="/logo.png" alt="Voltia Logo" class="h-16 md:h-20 w-auto object-contain" />
+            <img src="/logo.png" alt="Voltia Logo" class="h-12 md:h-14 w-auto object-contain" />
           </div>
           <p class="text-gray-400 leading-relaxed max-w-md">
             Empresa especializada en diagnóstico eléctrico y localización de fallas en cables de potencia de baja, media y alta tensión. Más de 20 años de experiencia en ensayos eléctricos no destructivos y mantenimiento predictivo.

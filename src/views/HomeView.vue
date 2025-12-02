@@ -120,7 +120,7 @@ import { usePageMeta } from '../composables/usePageMeta'
 usePageMeta({
   title: 'Voltia - Diagnóstico y Localización de Fallas en Cables Subterráneos | Baja, Media y Alta Tensión',
   description: 'Servicios especializados en diagnóstico eléctrico y localización de fallas en cables subterráneos de baja, media y alta tensión. Ensayos VLF, Tangente Delta, descargas parciales y mantenimiento predictivo. Más de 20 años de experiencia en Argentina.',
-  keywords: 'diagnóstico eléctrico, localización de fallas, cables subterráneos, cables de media tensión, cables de alta tensión, VLF, tangente delta, descargas parciales, mantenimiento predictivo, ensayos eléctricos no destructivos, Argentina',
+  keywords: 'diagnóstico eléctrico, localización de fallas, cables subterráneos, cables de media tensión, cables de alta tensión, VLF, tangente delta, descargas parciales, mantenimiento predictivo, ensayos eléctricos no destructivos, localización de falla en cubierta, integridad de cubierta, cables de 33kv, cables de 132kv, Argentina',
   canonical: 'https://voltiaelectricaldiagnostic.com/'
 })
 
