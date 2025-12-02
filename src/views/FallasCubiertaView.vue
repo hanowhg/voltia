@@ -167,7 +167,7 @@
               </div>
             </div>
 
-            <div class="bg-gradient-to-r from-red-600 to-red-700 text-white p-6 rounded-xl mt-8">
+            <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl mt-8">
               <p class="text-lg font-bold flex items-center">
                 <i class="pi pi-info-circle text-2xl mr-3"></i>
                 Conclusión: Una perforación en la cubierta no es un daño menor: es el inicio de una falla mayor en el sistema.

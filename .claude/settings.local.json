@@ -11,7 +11,8 @@
       "Bash(dir /b \"C:\\Users\\hanowh\\Documents\\Voltia\\enel\\public\")",
       "Bash(dir \"C:\\Users\\hanowh\\Documents\\Voltia\\enel\\public\")",
       "Bash(npm install:*)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
