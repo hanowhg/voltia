@@ -15,7 +15,7 @@
             v-for="item in menuItems"
             :key="item.label"
             :href="item.href"
-            class="text-gray-700 hover:text-primary-600 font-semibold transition-all duration-300 text-sm px-4 py-2 rounded-lg hover:bg-primary-50 relative group"
+            class="text-gray-700 hover:text-primary-600 font-semibold transition-all duration-300 text-lg px-4 py-2 rounded-lg hover:bg-primary-50 relative group"
           >
             {{ item.label }}
             <span class="absolute bottom-1 left-4 right-4 h-0.5 bg-gradient-to-r from-primary-600 to-primary-700 scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
