@@ -127,7 +127,7 @@
                 </p>
               </div>
 
-              <form @submit.prevent="handleSubmit" class="grid grid-cols-1 md:grid-cols-2 gap-5">
+              <form @submit.prevent="handleSubmit" class="space-y-5">
                 <div>
                   <label class="block text-sm font-semibold text-gray-700 mb-2">Nombre completo *</label>
                   <input
@@ -148,7 +148,7 @@
                     class="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:outline-none focus:border-secondary-500 transition-colors"
                   />
                 </div>
-                <div class="col-span-2">
+                <div>
                   <label class="block text-sm font-semibold text-gray-700 mb-2">Teléfono</label>
                   <input
                     v-model="formData.telefono"
@@ -158,7 +158,7 @@
                   />
                 </div>
 
-                <div class="col-span-2 border-t-2 border-gray-200 pt-6">
+                <div class="border-t-2 border-gray-200 pt-6">
                   <h3 class="text-lg font-semibold text-gray-900 mb-4">Tipo de servicio requerido *</h3>
                   <select
                     v-model="formData.tipoServicio"
@@ -173,7 +173,7 @@
                   </select>
                 </div>
 
-                <div class="col-span-2">
+                <div>
                   <h3 class="text-lg font-semibold text-gray-900 mb-4">Especificaciones del cable</h3>
                 </div>
 
@@ -198,7 +198,7 @@
                   />
                 </div>
 
-                <div class="col-span-2">
+                <div>
                   <label class="block text-sm font-semibold text-gray-700 mb-2">Longitud (km) *</label>
                   <input
                     v-model="formData.longitud"
@@ -209,7 +209,7 @@
                   />
                 </div>
 
-                <div class="col-span-2">
+                <div>
                   <label class="block text-sm font-semibold text-gray-700 mb-2">Comentarios adicionales</label>
                   <textarea
                     v-model="formData.comentarios"
@@ -218,7 +218,7 @@
                     class="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:outline-none focus:border-secondary-500 transition-colors resize-none"
                   ></textarea>
                 </div>
-                <div class="col-span-2">
+                <div>
                   <button
                     type="submit"
                     :disabled="formStatus.loading"

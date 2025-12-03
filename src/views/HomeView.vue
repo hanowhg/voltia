@@ -33,8 +33,8 @@
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
-          <div class="rounded-2xl h-96 overflow-hidden shadow-lg">
-            <img src="/instrumento.jpg" alt="Ingeniería Eléctrica" class="w-full h-full object-cover" />
+          <div class="rounded-2xl overflow-hidden shadow-lg">
+            <img src="/instrumento.jpg" alt="Ingeniería Eléctrica" class="w-full h-auto object-contain" />
           </div>
           <div>
             <p class="text-gray-700 mb-6 text-lg leading-relaxed">
