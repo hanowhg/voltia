@@ -40,10 +40,10 @@
               </li>
             </ul>
             <div v-if="service.showDetail !== false" class="mt-auto pt-4 border-t border-orange-200">
-              <a :href="service.link" class="text-primary-600 hover:text-primary-700 font-semibold inline-flex items-center group-hover:gap-2 transition-all">
+              <router-link :to="service.link" class="text-primary-600 hover:text-primary-700 font-semibold inline-flex items-center group-hover:gap-2 transition-all">
                 Ver descripción detallada
                 <i class="pi pi-arrow-right ml-2 text-sm"></i>
-              </a>
+              </router-link>
             </div>
           </div>
         </div>
@@ -87,31 +87,31 @@ const services = [
     title: 'Diagnóstico Eléctrico y Mantenimiento Predictivo (OFF-LINE)',
     icon: 'pi pi-chart-line',
     items: ['Resistencia de Aislación', 'Reflectometría Convencional (TDR)', 'Tensión Aplicada (VLF)', 'Tangente Delta y Capacidad', 'Integridad de Cubierta Exterior'],
-    link: '#/servicios/diagnostico'
+    link: '/servicios/diagnostico'
   },
   {
     title: 'Medición de Descargas Parciales (ON-LINE)',
     icon: 'pi pi-bolt',
     items: ['Método Inductivo'],
-    link: '#/servicios/descargas-parciales'
+    link: '/servicios/descargas-parciales'
   },
   {
     title: 'Localización de Fallas en el Aislamiento del cable',
     icon: 'pi pi-map-marker',
     items: ['Resistencia de Aislación', 'Reflectometría Convencional (TDR)', 'Tensión Aplicada', 'Método de Reflexión de Arco (ARM)', 'Método de Corriente de Impulso (ICE)', 'Método de Decaimiento (DECAY)', 'Impulsos de Alta Energía (THUMPER)', 'Detección Acústica y Electromagnética'],
-    link: '#/servicios/localizacion-fallas'
+    link: '/servicios/localizacion-fallas'
   },
   {
     title: 'Localización de Fallas en Cubierta Exterior',
     icon: 'pi pi-shield',
     items: ['Tensión Aplicada', 'Medición (Método de Murray)', 'Método del Voltaje de Paso o Gradiente de Voltaje'],
-    link: '#/servicios/fallas-cubierta'
+    link: '/servicios/fallas-cubierta'
   },
   {
     title: 'Localización de Ruta y Traza de Cables Subterráneos',
     icon: 'pi pi-sitemap',
     items: ['Conexión Directa', 'Pinza Inductiva', 'Bobina Inductiva de Superficie', 'Detección Pasiva 50 Hz'],
-    link: '#/servicios/traza-ruta'
+    link: '/servicios/traza-ruta'
   }
 ]
 

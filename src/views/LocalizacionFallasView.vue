@@ -226,13 +226,13 @@
 
 <script setup>
 import { onMounted } from 'vue'
+import { useRouter } from 'vue-router'
 import FooterComponent from '../components/FooterComponent.vue'
 
+const router = useRouter()
+
 const goToServicios = () => {
-  window.location.hash = '#/servicios'
-  setTimeout(() => {
-    window.scrollTo(0, 0)
-  }, 100)
+  router.push('/servicios')
 }
 
 onMounted(() => {

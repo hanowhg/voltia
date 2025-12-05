@@ -55,14 +55,13 @@
           <h4 class="text-base md:text-lg font-bold mb-4 md:mb-6 text-white">Enlaces Rápidos</h4>
           <ul class="space-y-2 md:space-y-3">
             <li v-for="link in quickLinks" :key="link.label">
-              <a
-                :href="link.href"
-                @click="link.onClick"
+              <router-link
+                :to="link.to"
                 class="text-gray-400 text-sm md:text-base hover:text-primary-500 transition-colors inline-flex items-center group cursor-pointer"
               >
                 <i class="pi pi-chevron-right text-xs mr-2 text-primary-500 opacity-0 group-hover:opacity-100 transition-opacity"></i>
                 {{ link.label }}
-              </a>
+              </router-link>
             </li>
           </ul>
         </div>
@@ -90,23 +89,9 @@ import { computed } from 'vue'
 
 const currentYear = computed(() => new Date().getFullYear())
 
-const goToHome = () => {
-  window.location.hash = '#/'
-  setTimeout(() => {
-    window.scrollTo(0, 0)
-  }, 100)
-}
-
 const quickLinks = [
-  {
-    label: 'Inicio',
-    href: '#/',
-    onClick: (e) => {
-      e.preventDefault()
-      goToHome()
-    }
-  },
-  { label: 'Servicios', href: '#/servicios' },
-  { label: 'Contacto', href: '#/contacto' }
+  { label: 'Inicio', to: '/' },
+  { label: 'Servicios', to: '/servicios' },
+  { label: 'Contacto', to: '/contacto' }
 ]
 </script>
