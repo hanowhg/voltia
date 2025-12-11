@@ -47,6 +47,21 @@
                 <div class="text-sm">info@voltiaelectricaldiagnostic.com</div>
               </div>
             </li>
+            <li class="flex items-start group">
+              <div class="bg-primary-600 w-7 h-7 md:w-8 md:h-8 rounded-lg flex items-center justify-center mr-2 md:mr-3 flex-shrink-0">
+                <i class="pi pi-linkedin text-xs md:text-sm"></i>
+              </div>
+              <div class="flex-1">
+                <a
+                  href="https://www.linkedin.com/company/voltia-electrical-diagnostic"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="text-xs md:text-sm hover:text-primary-500 transition-colors break-words"
+                >
+                  LinkedIn
+                </a>
+              </div>
+            </li>
           </ul>
         </div>
 

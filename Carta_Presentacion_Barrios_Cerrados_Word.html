@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+    <meta charset="UTF-8">
+    <title>Carta de Presentación - VOLTIA</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>100</w:Zoom>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+        @page {
+            size: A4;
+            margin: 2cm;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 15px;
+        }
+
+        .logo-img {
+            width: 80px;
+            height: 80px;
+            background: white;
+            border-radius: 10px;
+            padding: 8px;
+        }
+
+        .company-title {
+            font-size: 36pt;
+            font-weight: bold;
+            letter-spacing: 2px;
+            margin: 0;
+        }
+
+        .tagline {
+            font-size: 11pt;
+            font-style: italic;
+            margin-top: 5px;
+        }
+
+        .date-section {
+            margin: 20px 0;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #e5e7eb;
+        }
+
+        .date {
+            color: #6b7280;
+            font-size: 10pt;
+            margin-bottom: 15px;
+        }
+
+        .recipient {
+            font-weight: bold;
+            color: #1e3a8a;
+            font-size: 11pt;
+        }
+
+        .saludo {
+            margin: 20px 0;
+            font-weight: bold;
+            color: #1e3a8a;
+        }
+
+        .paragraph {
+            margin-bottom: 15px;
+            text-align: justify;
+            color: #4b5563;
+            line-height: 1.6;
+        }
+
+        .section-title {
+            font-size: 14pt;
+            font-weight: bold;
+            color: #1e3a8a;
+            margin: 25px 0 15px;
+            padding-bottom: 8px;
+            border-bottom: 3px solid #3b82f6;
+            text-transform: uppercase;
+        }
+
+        .service-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #eff6ff;
+            border-left: 4px solid #3b82f6;
+        }
+
+        .service-title {
+            font-weight: bold;
+            color: #1e3a8a;
+            font-size: 11pt;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+
+        .service-item ul {
+            margin: 5px 0 0 20px;
+            color: #4b5563;
+        }
+
+        .service-item li {
+            margin-bottom: 5px;
+        }
+
+        .benefit-item {
+            margin-bottom: 10px;
+            padding: 12px;
+            background-color: #f8fafc;
+            border: 2px solid #dbeafe;
+            border-radius: 5px;
+        }
+
+        .benefit-title {
+            font-weight: bold;
+            color: #1e3a8a;
+        }
+
+        .benefit-text {
+            color: #4b5563;
+        }
+
+        .differentiators {
+            background-color: #f8fafc;
+            padding: 15px;
+            margin: 15px 0;
+        }
+
+        .differentiators ul {
+            margin-left: 20px;
+        }
+
+        .differentiators li {
+            margin-bottom: 8px;
+            color: #4b5563;
+        }
+
+        .call-to-action {
+            background-color: #dbeafe;
+            padding: 20px;
+            margin: 20px 0;
+            border: 2px solid #3b82f6;
+            border-radius: 5px;
+        }
+
+        .closing {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid #e5e7eb;
+        }
+
+        .signature-section {
+            margin-top: 40px;
+            text-align: center;
+        }
+
+        .signature-line {
+            border-top: 2px solid #1e3a8a;
+            padding-top: 10px;
+            display: inline-block;
+            min-width: 300px;
+        }
+
+        .company-name {
+            font-weight: bold;
+            color: #1e3a8a;
+            font-size: 13pt;
+            margin-bottom: 5px;
+        }
+
+        .company-subtitle {
+            color: #6b7280;
+            font-size: 10pt;
+            margin-bottom: 10px;
+        }
+
+        .contact-info {
+            color: #4b5563;
+            font-size: 10pt;
+        }
+
+        .footer {
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-style: italic;
+            margin-top: 30px;
+        }
+
+        strong {
+            color: #1e3a8a;
+        }
+
+        .check-icon {
+            color: #3b82f6;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <div class="logo-container">
+            <img src="public/logo.png" alt="Voltia Logo" class="logo-img">
+            <div>
+                <div class="company-title">VOLTIA</div>
+            </div>
+        </div>
+        <div class="tagline">Servicios Especializados en Cables Subterráneos</div>
+    </div>
+
+    <!-- Date and Recipient -->
+    <div class="date-section">
+        <div class="date">Buenos Aires, 10 de diciembre de 2025</div>
+        <div class="recipient">
+            Estimados Señores:<br>
+            Administración de <strong>[NOMBRE DEL BARRIO/COUNTRY]</strong>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="saludo">De nuestra mayor consideración:</div>
+
+    <div class="paragraph">
+        Nos dirigimos a ustedes con el propósito de presentar a <strong>VOLTIA</strong>, empresa especializada en diagnóstico eléctrico y localización de fallas en cables subterráneos de baja, media y alta tensión, con <strong>más de 20 años de experiencia</strong> en el sector energético.
+    </div>
+
+    <div class="paragraph">
+        Comprendemos que la continuidad del servicio eléctrico es fundamental para garantizar el bienestar, la seguridad y la calidad de vida de los residentes de su barrio cerrado. Las interrupciones imprevistas no solo generan incomodidades, sino que también representan riesgos operativos y costos significativos de reparación de emergencia.
+    </div>
+
+    <div class="paragraph">
+        En VOLTIA nos especializamos en prevenir estas situaciones mediante servicios de mantenimiento predictivo y diagnóstico avanzado, utilizando tecnología de última generación que cumple con las normativas internacionales más exigentes (<strong>IEEE 400.2-2013, IEEE 1234, IEC 60229</strong>).
+    </div>
+
+    <!-- Services Section -->
+    <div class="section-title">Nuestros Servicios Incluyen</div>
+
+    <div class="service-item">
+        <div class="service-title">1. Diagnóstico Eléctrico y Mantenimiento Predictivo (OFF-LINE)</div>
+        <ul>
+            <li>Evaluación integral del estado de los cables subterráneos</li>
+            <li>Pruebas con tecnología VLF (Very Low Frequency) y análisis de Tangente Delta</li>
+            <li>Identificación de puntos débiles antes de que se conviertan en fallas</li>
+            <li>Informes detallados con recomendaciones precisas para planificar intervenciones</li>
+        </ul>
+    </div>
+
+    <div class="service-item">
+        <div class="service-title">2. Medición de Descargas Parciales (ON-LINE)</div>
+        <ul>
+            <li>Diagnóstico sin interrumpir el servicio eléctrico</li>
+            <li>Análisis continuo durante 24 horas del estado de los circuitos</li>
+            <li>Evaluación de tendencias de comportamiento a lo largo del tiempo</li>
+        </ul>
+    </div>
+
+    <div class="service-item">
+        <div class="service-title">3. Localización Precisa de Fallas en Aislación Principal</div>
+        <ul>
+            <li>Identificación exacta del punto de falla mediante tecnología de punta</li>
+            <li>Minimización de excavaciones innecesarias</li>
+            <li>Reducción drástica de tiempos de reparación</li>
+            <li>Metodología combinada: TDR, ARM, ICE, Thumper y detección acústica/electromagnética</li>
+        </ul>
+    </div>
+
+    <div class="service-item">
+        <div class="service-title">4. Localización de Fallas en Cubierta Exterior</div>
+        <ul>
+            <li>Detección temprana de daños que comprometen la integridad del cable</li>
+            <li>Prevención de fallas catastróficas por ingreso de humedad</li>
+            <li>Método de gradiente de voltaje para máxima precisión</li>
+        </ul>
+    </div>
+
+    <div class="service-item">
+        <div class="service-title">5. Localización de Ruta y Traza de Cables Subterráneos</div>
+        <ul>
+            <li>Mapeo completo de la red eléctrica subterránea</li>
+            <li>Prevención de daños accidentales durante obras civiles</li>
+            <li>Medición de profundidad y posicionamiento exacto</li>
+            <li>Esencial para planificación de nuevas instalaciones o modificaciones</li>
+        </ul>
+    </div>
+
+    <!-- Benefits Section -->
+    <div class="section-title">Beneficios para su Barrio Cerrado</div>
+
+    <div class="benefit-item">
+        <span class="check-icon">✓</span>
+        <span class="benefit-title">CONTINUIDAD OPERATIVA:</span>
+        <span class="benefit-text">Minimice el riesgo de cortes imprevistos que afecten a los residentes</span>
+    </div>
+
+    <div class="benefit-item">
+        <span class="check-icon">✓</span>
+        <span class="benefit-title">OPTIMIZACIÓN DE COSTOS:</span>
+        <span class="benefit-text">Planifique reparaciones en lugar de enfrentar emergencias costosas</span>
+    </div>
+
+    <div class="benefit-item">
+        <span class="check-icon">✓</span>
+        <span class="benefit-title">SEGURIDAD:</span>
+        <span class="benefit-text">Reduzca riesgos eléctricos que puedan comprometer instalaciones y personas</span>
+    </div>
+
+    <div class="benefit-item">
+        <span class="check-icon">✓</span>
+        <span class="benefit-title">EXTENSIÓN DE VIDA ÚTIL:</span>
+        <span class="benefit-text">Decisiones informadas sobre mantenimiento y reemplazo de activos</span>
+    </div>
+
+    <div class="benefit-item">
+        <span class="check-icon">✓</span>
+        <span class="benefit-title">TRANSPARENCIA:</span>
+        <span class="benefit-text">Informes técnicos detallados y profesionales para la gestión administrativa</span>
+    </div>
+
+    <!-- Differentiators Section -->
+    <div class="section-title">Nuestra Diferenciación</div>
+
+    <div class="differentiators">
+        <ul>
+            <li>Más de 20 años de experiencia acumulada en ensayos eléctricos no destructivos</li>
+            <li>Equipamiento de última generación (línea Omicron y otros líderes del mercado)</li>
+            <li>Cumplimiento estricto de normativas internacionales IEEE e IEC</li>
+            <li>Personal técnico altamente capacitado y certificado</li>
+            <li>Metodología no destructiva que preserva la integridad de sus activos</li>
+            <li>Atención personalizada y compromiso con cada cliente</li>
+        </ul>
+    </div>
+
+    <!-- Call to Action -->
+    <div class="call-to-action">
+        <div class="paragraph" style="margin-bottom: 0;">
+            Estaríamos encantados de coordinar una reunión para presentar en detalle nuestros servicios, realizar una <strong>evaluación preliminar sin cargo</strong> de las necesidades específicas de su instalación, y elaborar una propuesta personalizada acorde a las características de su barrio cerrado.
+        </div>
+    </div>
+
+    <div class="paragraph">
+        Quedamos a su disposición para ampliar cualquier aspecto de esta presentación y responder todas sus consultas.
+    </div>
+
+    <!-- Closing -->
+    <div class="closing">
+        <div class="paragraph">Sin otro particular, saludamos a ustedes muy atentamente.</div>
+
+        <div class="signature-section">
+            <div class="signature-line">
+                <div class="company-name">VOLTIA</div>
+                <div class="company-subtitle">Servicios Especializados en Cables Subterráneos</div>
+                <div class="contact-info">
+                    <div><strong>Contacto:</strong> [Teléfono/Email]</div>
+                    <div><strong>Web:</strong> [Sitio Web]</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        "Protegiendo su infraestructura eléctrica con tecnología, experiencia y compromiso"
+    </div>
+</body>
+</html>
